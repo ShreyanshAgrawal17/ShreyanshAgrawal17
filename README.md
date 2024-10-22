@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Shreyansh Agrawal</h1>
 <h3 align="center">A passionate ML, DL enthusiast from India</h3>
-<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/33197180/125737592-447b9a2b-cbdd-44d4-9e8b-a990e88cac29.gif?raw=true">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/33197180/125737592-447b9a2b-cbdd-44d4-9e8b-a990e88cac29.gif?raw=true">
 - 🌱 I’m currently expanding my knowledge in **Machine Learning, Computer Vision, and Deep Learning.**
 
 - 👯 I’m looking to collaborate on projects related to **AI, Data Science, and impactful open-source contributions.**
